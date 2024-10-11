@@ -50,15 +50,6 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="50" width="50" /></a>
-<a href="https://instagram.com/yourprofile" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="50" width="50" /></a>
-</p>
-
----
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> 
