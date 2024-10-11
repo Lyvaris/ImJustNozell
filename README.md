@@ -13,7 +13,7 @@
 
 - 💻 Passionate about **Arduino Projects, PLC Automation & Web Development**
 
-- 💬 Ask me about **PHP, JSONUI, Arduino, PLC Ladder Programming**
+- 💬 Ask me about **PHP, JSONUI, Arduino, PLC Ladder Programming, PLC Funciones**
 
 - 📫 How to reach me **imjustnozell@gmail.com**
 - ![GitHub User's stars](https://img.shields.io/github/stars/imjustnozell) ![GitHub followers](https://img.shields.io/github/followers/imjustnozell)
