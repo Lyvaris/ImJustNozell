@@ -55,9 +55,10 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> 
-<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JSON.svg" alt="json" width="50" height="50"/> </a> 
-<a href="https://www.rockwellautomation.com/en-us.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PLC.svg" alt="plc" width="50" height="50"/> </a>
+<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/jsonui.png" alt="jsonui" width="50" height="50"/> </a> 
+<a href="https://www.rockwellautomation.com/en-us.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/plc-de_funciones.png" alt="plc funciones" width="50" height="50"/> </a>
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg" alt="autocad" width="50" height="50"/> </a>
+<a href="https://www.plc-ladder.com" target="_blank" rel="noreferrer"> <img src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/plc-ladder.png" alt="plc ladder" width="50" height="50"/> </a>
 </p>
 
 ---
