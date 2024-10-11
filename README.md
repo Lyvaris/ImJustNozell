@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **PHP, JSONUI, Arduino, PLC Ladder Programming, PLC Funciones**
 
-- 📫 How to reach me **imjustnozell@gmail.com**
+- 📫 How to reach me **<imjustnozell@gmail.com>**
 
 - ![GitHub User's stars](https://img.shields.io/github/stars/imjustnozell) ![GitHub followers](https://img.shields.io/github/followers/imjustnozell)
 
@@ -48,7 +48,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=imjustnozell&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=imjustnozell&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=imjustnozell&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
 
@@ -63,11 +63,11 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> 
+<p align="center">
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> 
-<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/jsonui.png" alt="jsonui" width="50" height="50"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>
+<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/jsonui.png" alt="jsonui" width="50" height="50"/> </a>
 <a href="https://www.rockwellautomation.com/en-us.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/plc-de_funciones.png" alt="plc funciones" width="50" height="50"/> </a>
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg" alt="autocad" width="50" height="50"/> </a>
 <a href="https://www.plc-ladder.com" target="_blank" rel="noreferrer"> <img src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/plc-ladder.png" alt="plc ladder" width="50" height="50"/> </a>
@@ -88,8 +88,6 @@
 </p>
 
 ---
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
