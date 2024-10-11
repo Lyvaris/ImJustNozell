@@ -3,7 +3,7 @@
 <p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
 <h1 align="center">Hi 👋, I'm Nozell</h1>
 <h3 align="center">Developer | Passionate About PHP, Arduino, JSONUI & PLC Ladder Programming</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Nozell" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imjustnozell&label=Profile%20views&color=0e75b6&style=flat" alt="Nozell" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -57,6 +57,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> 
 <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JSON.svg" alt="json" width="50" height="50"/> </a> 
 <a href="https://www.rockwellautomation.com/en-us.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PLC.svg" alt="plc" width="50" height="50"/> </a>
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg" alt="autocad" width="50" height="50"/> </a>
 </p>
 
 ---
