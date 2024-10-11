@@ -75,7 +75,7 @@
   </a>
   
   <a href="https://discord.gg/NvxR2SCyQY" style="display: inline-block; margin-left: 10px;">
-    <img align="center" src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/discord.png" height="50" width="210" alt="discord" />
+    <img align="center" src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/discord.png" height="70" width="210" alt="discord" />
   </a>
 </p>
 
