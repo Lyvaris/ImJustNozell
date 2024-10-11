@@ -16,8 +16,9 @@
 - 💬 Ask me about **PHP, JSONUI, Arduino, PLC Ladder Programming**
 
 - 📫 How to reach me **imjustnozell@gmail.com**
+- ![GitHub User's stars](https://img.shields.io/github/stars/imjustnozell) ![GitHub followers](https://img.shields.io/github/followers/imjustnozell)
 
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng) ![GitHub User's stars](https://img.shields.io/github/stars/imjustnozell)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCg4BM8oOB_kP9c6lz3fvLng)
 
 </td>
 <td width="50%" align="center">
