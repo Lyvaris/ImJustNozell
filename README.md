@@ -68,7 +68,17 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.paypal.me/vNozell"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p> <p align="center"><a href="https://discord.gg/NvxR2SCyQY"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p>
+
+<p align="center">
+  <a href="https://www.paypal.me/vNozell" style="display: inline-block;">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
+  </a>
+  
+  <a href="https://discord.gg/NvxR2SCyQY" style="display: inline-block; margin-left: 10px;">
+    <img align="center" src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/discord.png" height="50" width="210" alt="discord" />
+  </a>
+</p>
+
 
 ---
 
