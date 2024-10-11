@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **imjustnozell@gmail.com**
 
-- ⚡ Fun fact: **I automate everything I can!**
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng)
 
 </td>
 <td width="50%" align="center">
