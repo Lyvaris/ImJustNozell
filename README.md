@@ -19,9 +19,15 @@
 
 - ![GitHub User's stars](https://img.shields.io/github/stars/imjustnozell) ![GitHub followers](https://img.shields.io/github/followers/imjustnozell)
 
-- <a href="https://www.youtube.com/channel/UCg4BM8oOB_kP9c6lz3fvLng" target="_blank">
+<p>
+  <a href="https://www.youtube.com/channel/UCg4BM8oOB_kP9c6lz3fvLng" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
-  </a> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng)     ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCg4BM8oOB_kP9c6lz3fvLng)
+  </a>
+  
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng?style=for-the-badge" alt="YouTube Subscribers" />
+
+  <img src="https://img.shields.io/youtube/channel/views/UCg4BM8oOB_kP9c6lz3fvLng?style=for-the-badge" alt="YouTube Views" />
+</p>
 
 </td>
 <td width="50%" align="center">
