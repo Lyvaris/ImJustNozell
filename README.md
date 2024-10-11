@@ -19,7 +19,9 @@
 
 - ![GitHub User's stars](https://img.shields.io/github/stars/imjustnozell) ![GitHub followers](https://img.shields.io/github/followers/imjustnozell)
 
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCg4BM8oOB_kP9c6lz3fvLng)
+- <a href="https://www.youtube.com/channel/UCg4BM8oOB_kP9c6lz3fvLng" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+  </a> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng)     ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCg4BM8oOB_kP9c6lz3fvLng)
 
 </td>
 <td width="50%" align="center">
@@ -78,7 +80,6 @@
     <img align="center" src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/discord.png" height="70" width="210" alt="discord" />
   </a>
 </p>
-
 
 ---
 
