@@ -17,7 +17,16 @@
 
 - 📫 How to reach me **<imjustnozell@gmail.com>**
 
-- ![GitHub User's stars](https://img.shields.io/github/stars/imjustnozell) ![GitHub followers](https://img.shields.io/github/followers/imjustnozell)
+<p>
+  <a href="https://github.com/imjustnozell" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/stars/imjustnozell" alt="GitHub User's stars" />
+  </a>
+
+  <a href="https://github.com/imjustnozell?tab=followers" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/followers/imjustnozell" alt="GitHub followers" />
+  </a>
+</p>
+
 
 <p>
   <a href="https://www.youtube.com/channel/UCg4BM8oOB_kP9c6lz3fvLng" target="_blank" rel="noopener noreferrer">
