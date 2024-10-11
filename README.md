@@ -3,7 +3,7 @@
 <p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
 <h1 align="center">Hi 👋, I'm Nozell</h1>
 <h3 align="center">Developer | Passionate About PHP, Arduino, JSONUI & PLC Ladder Programming</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Nozell" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -73,6 +73,6 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/yourprofile"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/yourprofile"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.paypal.me/vNozell" /></a></p>
 
 ---
