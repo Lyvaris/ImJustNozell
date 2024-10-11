@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **imjustnozell@gmail.com**
 
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng) ![GitHub User's stars](https://img.shields.io/github/stars/imjustnozell)
 
 </td>
 <td width="50%" align="center">
