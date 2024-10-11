@@ -34,7 +34,6 @@
   
   <img src="https://img.shields.io/github/stars/imjustnozell?style=for-the-badge" alt="GitHub User's stars" />
 
-  <!-- Escudo de seguidores de GitHub -->
   <img src="https://img.shields.io/github/followers/imjustnozell?style=for-the-badge" alt="GitHub followers" />
 </p>
 
