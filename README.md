@@ -22,13 +22,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   
-  <a href="https://github.com/imjustnozell" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/stars/imjustnozell" alt="GitHub User's stars" />
-  </a>
 
-  <a href="https://github.com/imjustnozell?tab=followers" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/followers/imjustnozell" alt="GitHub followers" />
-  </a>
 </p>
 
 <p>
