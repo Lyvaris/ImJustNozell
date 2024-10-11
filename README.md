@@ -1,30 +1,42 @@
-# 
+#
+
 <p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
 <h1 align="center">Hi 👋, I'm Nozell</h1>
 <h3 align="center">Developer | Passionate About PHP, Arduino, JSONUI & PLC Ladder Programming</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imjustnozell&label=Profile%20views&color=0e75b6&style=flat" alt="Nozell" /> </p>
+<p align="center">
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
+- <img src="https://komarev.com/ghpvc/?username=imjustnozell&label=Profile%20views&color=0e75b6&style=flat" alt="Nozell" /> </p>
 - 🌱 I’m currently learning **Advanced Automation Techniques**
 
 - 💻 Passionate about **Arduino Projects, PLC Automation & Web Development**
 
 - 💬 Ask me about **PHP, JSONUI, Arduino, PLC Ladder Programming, PLC Funciones**
-
-- 📫 How to reach me **<imjustnozell@gmail.com>**
+- <p>
+    <a href="https://www.paypal.com/paypalme/vNozell" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge" />
+    </a>
+  </p>
 
 - <p>
-  <a href="https://github.com/ImJustNozell" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-  
-    <img src="https://img.shields.io/github/stars/imjustnozell" alt="GitHub User's stars" />
+    <a href="mailto:imjustnozell@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    </a>
+  </p>
 
-    <img src="https://img.shields.io/github/followers/imjustnozell" alt="GitHub followers" />
-</p>
+- <p>
+    <a href="https://github.com/ImJustNozell" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    </a>
+    
+      <img src="https://img.shields.io/github/stars/imjustnozell" alt="GitHub User's stars" />
+
+      <img src="https://img.shields.io/github/followers/imjustnozell" alt="GitHub followers" />
+
+  </p>
 
 <p>
   <a href="https://www.youtube.com/channel/UCg4BM8oOB_kP9c6lz3fvLng" target="_blank" rel="noopener noreferrer">
