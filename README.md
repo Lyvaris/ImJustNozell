@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **<imjustnozell@gmail.com>**
 
-<p>
+- <p>
   <a href="https://github.com/ImJustNozell" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
