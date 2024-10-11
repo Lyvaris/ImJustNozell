@@ -1,4 +1,4 @@
-#ImJustNozell
+# 👋 Hi, I'm Nozell
 
 <p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
 <h1 align="center">Hi 👋, I'm Nozell</h1>
@@ -16,6 +16,7 @@
 - 💬 Ask me about **PHP, JSONUI, Arduino, PLC Ladder Programming, PLC Funciones**
 
 - 📫 How to reach me **imjustnozell@gmail.com**
+
 - ![GitHub User's stars](https://img.shields.io/github/stars/imjustnozell) ![GitHub followers](https://img.shields.io/github/followers/imjustnozell)
 
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCg4BM8oOB_kP9c6lz3fvLng)
@@ -43,7 +44,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjustnozell&theme=dark&hide_border=false&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjustnozell&theme=dark&hide_border=false&langs_count=10&layout=compact" alt="Top Langs" width="450"/>
   
   </td>
 </tr>
@@ -54,7 +55,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
 
 ---
 
@@ -82,4 +82,4 @@
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
-## <!-- ## 📚 &nbsp;My Projects -->
+---
