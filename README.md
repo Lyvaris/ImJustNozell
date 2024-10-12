@@ -10,7 +10,6 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 
 - <img src="https://komarev.com/ghpvc/?username=imjustnozell&label=Profile%20views&color=0e75b6&style=flat" alt="Nozell" /> </p>
 
 - 💻 Passionate about **Arduino Projects, PLC Automation & Web Development**
@@ -35,6 +34,7 @@
   <img src="https://img.shields.io/github/stars/imjustnozell?style=for-the-badge" alt="GitHub User's stars" />
 
   <img src="https://img.shields.io/github/followers/imjustnozell?style=for-the-badge" alt="GitHub followers" />
+
 </p>
 
 - <p>
@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng?style=for-the-badge" alt="YouTube Subscribers" />
 
   <img src="https://img.shields.io/youtube/channel/views/UCg4BM8oOB_kP9c6lz3fvLng?style=for-the-badge" alt="YouTube Views" />
+
 </p>
 
 </td>
