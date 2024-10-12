@@ -30,7 +30,7 @@
   <a href="https://github.com/ImJustNozell" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  
+
   <img src="https://img.shields.io/github/stars/imjustnozell?style=for-the-badge" alt="GitHub User's stars" />
 
   <img src="https://img.shields.io/github/followers/imjustnozell?style=for-the-badge" alt="GitHub followers" />
@@ -41,7 +41,7 @@
   <a href="https://www.youtube.com/channel/UCg4BM8oOB_kP9c6lz3fvLng" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
   </a>
-  
+
   <img src="https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng?style=for-the-badge" alt="YouTube Subscribers" />
 
   <img src="https://img.shields.io/youtube/channel/views/UCg4BM8oOB_kP9c6lz3fvLng?style=for-the-badge" alt="YouTube Views" />
