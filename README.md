@@ -1,16 +1,15 @@
 #
-
-<h1 align="center"><b>Hi, I'm Nozell </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Lyvaris BlockForge </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello,+I'm+Nozell+%F0%9F%91%8B;PHP+Developer,;PocketMine+Developer,;Advanced+Automation+Techniques,;Arduino+Projects,;Highly+Experienced+in+PLC+Functions,;PLC+Ladder+Expert,;JSON+UI+Enthusiast,;Always+Learning+New+Things.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello,+I'm+Lyvaris+BlockForge+%F0%9F%91%8B;PHP+Developer,;PocketMine+Developer,;Advanced+Automation+Techniques,;Arduino+Projects,;Highly+Experienced+in+PLC+Functions,;PLC+Ladder+Expert,;JSON+UI+Enthusiast,;Always+Learning+New+Things.."></a>
 </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- <img src="https://komarev.com/ghpvc/?username=imjustnozell&label=Profile%20views&color=0e75b6&style=flat" alt="Nozell" /> </p>
+- <img src="https://komarev.com/ghpvc/?username=Lyvaris&label=Profile%20views&color=0e75b6&style=flat" alt="Lyvaris" /> </p>
 
 - 💻 Passionate about **Arduino Projects, PLC Automation & Web Development**
 
@@ -27,13 +26,13 @@
   </p>
 
 - <p>
-  <a href="https://github.com/ImJustNozell" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Lyvaris" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 
-  <img src="https://img.shields.io/github/stars/imjustnozell?style=for-the-badge" alt="GitHub User's stars" />
+  <img src="https://img.shields.io/github/stars/Lyvaris?style=for-the-badge" alt="GitHub User's stars" />
 
-  <img src="https://img.shields.io/github/followers/imjustnozell?style=for-the-badge" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Lyvaris?style=for-the-badge" alt="GitHub followers" />
 
 </p>
 
@@ -63,19 +62,19 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=imjustnozell&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Lyvaris&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=imjustnozell&theme=dark&hide_border=false" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Lyvaris&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=imjustnozell&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lyvaris&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
 </table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imjustnozell" alt="imjustnozell" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lyvaris" alt="Lyvaris" /></a> </p>
 
 ---
 
@@ -84,10 +83,10 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/jsonui.png" alt="jsonui" width="50" height="50"/> </a>
-<a href="https://www.rockwellautomation.com/en-us.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/plc-de_funciones.png" alt="plc funciones" width="50" height="50"/> </a>
+<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Lyvaris/Lyvaris/blob/main/images/jsonui.png" alt="jsonui" width="50" height="50"/> </a>
+<a href="https://www.rockwellautomation.com/en-us.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Lyvaris/Lyvaris/blob/main/images/plc-de_funciones.png" alt="plc funciones" width="50" height="50"/> </a>
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg" alt="autocad" width="50" height="50"/> </a>
-<a href="https://www.plc-ladder.com" target="_blank" rel="noreferrer"> <img src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/plc-ladder.png" alt="plc ladder" width="50" height="50"/> </a>
+<a href="https://www.plc-ladder.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Lyvaris/Lyvaris/blob/main/images/plc-ladder.png" alt="plc ladder" width="50" height="50"/> </a>
 </p>
 
 ---
@@ -100,7 +99,7 @@
   </a>
   
   <a href="https://discord.gg/NvxR2SCyQY" style="display: inline-block; margin-left: 10px;">
-    <img align="center" src="https://github.com/ImJustNozell/ImJustNozell/blob/main/images/discord.png" height="70" width="210" alt="discord" />
+    <img align="center" src="https://github.com/Lyvaris/Lyvaris/blob/main/images/discord.png" height="70" width="210" alt="discord" />
   </a>
 </p>
 
@@ -109,5 +108,3 @@
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
-
----
