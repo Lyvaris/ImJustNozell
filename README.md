@@ -56,37 +56,29 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Lyvaris&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Lyvaris&theme=dark&hide_border=false" />
-</td>
-<td width="50%" align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lyvaris&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lyvaris&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyvaris&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lyvaris&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Lyvaris&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lyvaris" alt="Lyvaris" /></a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Lyvaris&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Lyvaris/Lyvaris/blob/main/images/jsonui.png" alt="jsonui" width="50" height="50"/> </a>
 <a href="https://www.rockwellautomation.com/en-us.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Lyvaris/Lyvaris/blob/main/images/plc-de_funciones.png" alt="plc funciones" width="50" height="50"/> </a>
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg" alt="autocad" width="50" height="50"/> </a>
 <a href="https://www.plc-ladder.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Lyvaris/Lyvaris/blob/main/images/plc-ladder.png" alt="plc ladder" width="50" height="50"/> </a>
+  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 </p>
 
 ---
